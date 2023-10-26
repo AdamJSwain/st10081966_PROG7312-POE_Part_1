@@ -39,7 +39,10 @@ namespace st10081966_PROG7312_POE_Part_1
 
         private void btnIdentifyAreas_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("This feature is not yet implemented, Please check back later!");
+            MatchColumns matchColumns = new MatchColumns();
+            matchColumns.FormClosed += (s, args) => this.Close();
+            matchColumns.Show();
+            this.Hide();
         }
     }
 }

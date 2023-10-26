@@ -60,6 +60,12 @@
     <Compile Include="Forms\DeweyGame.Designer.cs">
       <DependentUpon>DeweyGame.cs</DependentUpon>
     </Compile>
+    <Compile Include="Forms\MatchColumns.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MatchColumns.Designer.cs">
+      <DependentUpon>MatchColumns.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -67,6 +73,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\DeweyGame.resx">
       <DependentUpon>DeweyGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MatchColumns.resx">
+      <DependentUpon>MatchColumns.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
