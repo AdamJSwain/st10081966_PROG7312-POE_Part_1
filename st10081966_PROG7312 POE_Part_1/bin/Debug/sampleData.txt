@@ -1,0 +1,155 @@
+100. Philosophy & Psychology. 1
+110. Metaphysics. 2
+113. Cosmology. 3
+114. Space. 3
+115. Time. 3
+116. Change. 3
+117. Structure. 3
+120. Epistemology. 2
+121. Epistemology. 3
+122. Causation. 3
+123. Determinism & indeterminism. 3
+124. Teleology. 3
+126. The self. 3
+130. Parapsychology & Occultism. 2
+131. Parapsychological & occult methods. 3
+133. Specific topics in parapsychology & occultism. 3
+135. Dreams & mysteries. 3
+137. Divinatory graphology. 3
+138. Physiognomy. 3
+140. Philosophical Schools of Thought. 2
+141. Idealism & related systems. 3
+142. Critical philosophy. 3
+143. Bergsonism & intuitionism. 3
+144. Humanism & related systems. 3
+145. Sensationalism. 3
+150. Psychology. 2
+151. Perception, movement, emotions & drives. 3
+152. Mental processes & intelligence. 3
+153. Subconscious & altered states. 3
+154. Differential & developmental psychology. 3
+156. Applied psychology. 3
+200. Religion. 1
+210. Philosophy & Theory of Religion. 2
+211. Concepts of God. 3
+212. Existence, knowability & attributes of God. 3
+213. Creation. 3
+214. Theodicy. 3
+215. Science & religion. 3
+220. The Bible. 2
+221. Old Testament (Tanakh). 3
+222. Historical books of Old Testament. 3
+223. Poetic books of Old Testament. 3
+224. Prophetic books of Old Testament . 3
+225. New Testament. 3
+230. Christianity & Christian Theology. 2
+231. God. 3
+232. Jesus Christ & his family. 3
+233. Humankind. 3
+234. Salvation & grace. 3
+235. Spiritual beings. 3
+240. Christian moral & devotional theology. 2
+241. Christian ethics. 3
+242. Devotional literature. 3
+243. Evangelistic writings for individuals. 3
+246. Use of art in Christianity. 3
+247. Church furnishings & articles. 3
+250. Christian Pastoral Practice & Religious Orders. 2
+251. Preaching. 3
+252. Texts of sermons. 3
+253. Pastoral office & work. 3
+254. Parish administration. 3
+255. Religious congregations & orders. 3
+300. Social Sciences. 1
+310. Statistics. 2
+311. General statistics of Europe. 3
+312. General statistics of Asia. 3
+313. General statistics of Africa. 3
+314. General statistics of North America. 3
+315. General statistics of South America. 3
+320. Political Science. 2
+321. Systems of governments & states. 3
+322. Relation of state to organized groups. 3
+323. Civil & political rights. 3
+324. The political process. 3
+325. International migration & colonization. 3
+330. Economics. 2
+331. Labor economics. 3
+332. Financial economics. 3
+333. Economics of land & energy. 3
+334. Cooperatives. 3
+335. Socialism & related systems. 3
+340. Law. 2
+341. Law of nations. 3
+342. Constitutional & administrative law. 3
+343. Military, tax, trade & industrial law. 3
+344. Labor, social, education & cultural law. 3
+345. Criminal law. 3
+350. Public Administration & Military Science. 2
+351. Public administration. 3
+352. General considerations of public administration. 3
+353. Specific fields of public administration. 3
+354.  Administration of economy & environment. 3
+355. Military science. 3
+400. Language. 1
+410. Linguistics. 2
+411. Writing systems. 3
+412. Etymology. 3
+413. Dictionaries. 3
+414. Phonology & phonetics. 3
+415. Grammar. 3
+420. English & Old English Languages. 2
+421. English writing system & phonology. 3
+422. English etymology. 3
+423. English dictionaries. 3
+425. English grammar. 3
+427. English language variations. 3
+430. German & Related Languages. 2
+431. German writing systems & phonology. 3
+432. German etymology. 3
+433. German dictionaries. 3
+435. German grammar. 3
+437. German language variations. 3
+440. French & Related Languages. 2
+441. French writing systems & phonology. 3
+442. French etymology. 3
+443. French dictionaries. 3
+445. French grammar . 3
+447. French language variations. 3
+450. Italian, Romanian & Related Languages. 2
+451. Italian writing systems & phonology. 3
+452. Italian etymology. 3
+453. Italian dictionaries. 3
+455. Italian grammar. 3
+457. Italian language variations. 3
+500. Science. 1
+510. Mathematics. 2
+511. General principles of mathematics. 3
+512. Algebra. 3
+513. Arithmetic. 3
+514. Topology. 3
+515. Analysis. 3
+520. Astronomy. 2
+521. Celestial mechanics. 3
+522. Techniques, equipment & materials. 3
+523. Specific celestial bodies & phenomena. 3
+525. Earth (Astronomical geography). 3
+526. Mathematical geography. 3
+530. Physics. 2
+531. Classical mechanics; solid mechanics. 3
+532. Fluid mechanics; liquid mechanics. 3
+533. Gas mechanics. 3
+534. Sound & related vibrations. 3
+535. Light & infrared & ultraviolet phenomena. 3
+540. Chemistry. 2
+541. Physical chemistry. 3
+542. Techniques, equipment & materials. 3
+543. Analytical chemistry. 3
+546. Inorganic chemistry. 3
+547. Organic chemistry. 3
+550. Earth Sciences & Geology. 2
+551. Geology, hydrology & meteorology. 3
+552. Petrology. 3
+553. Economic geology. 3
+554. Earth sciences of Europe. 3
+555. Earth sciences of Asia. 3
