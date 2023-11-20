@@ -193,6 +193,16 @@ namespace st10081966_PROG7312_POE_Part_1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap LibraryBackgroundFinalPOE {
+            get {
+                object obj = ResourceManager.GetObject("LibraryBackgroundFinalPOE", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Light_blue {
             get {
                 object obj = ResourceManager.GetObject("Light blue", resourceCulture);

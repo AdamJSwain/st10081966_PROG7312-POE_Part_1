@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="Classes\DeweyDecimalComparer.cs" />
     <Compile Include="Classes\Generator.cs" />
+    <Compile Include="Classes\RedBlackTree.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -59,6 +60,12 @@
     </Compile>
     <Compile Include="Forms\DeweyGame.Designer.cs">
       <DependentUpon>DeweyGame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FindNumbers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FindNumbers.Designer.cs">
+      <DependentUpon>FindNumbers.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\MatchColumns.cs">
       <SubType>Form</SubType>
@@ -74,6 +81,9 @@
     <EmbeddedResource Include="Forms\DeweyGame.resx">
       <DependentUpon>DeweyGame.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FindNumbers.resx">
+      <DependentUpon>FindNumbers.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\MatchColumns.resx">
       <DependentUpon>MatchColumns.cs</DependentUpon>
     </EmbeddedResource>
@@ -87,6 +97,7 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <None Include="bin\Debug\st10081966_PROG7312 POE_Part_1.exe.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -101,6 +112,11 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bin\Debug\DeweyGenerator.dll" />
+    <Content Include="bin\Debug\DeweyGenerator.pdb" />
+    <Content Include="bin\Debug\sampleData.txt" />
+    <Content Include="bin\Debug\st10081966_PROG7312 POE_Part_1.exe" />
+    <Content Include="bin\Debug\st10081966_PROG7312 POE_Part_1.pdb" />
     <Content Include="Resources\bookshelves.png" />
     <Content Include="Resources\books\Also orange with stripes.png" />
     <Content Include="Resources\books\Blue and Orange.png" />
@@ -113,6 +129,8 @@
     <Content Include="Resources\books\orange with stripes.png" />
     <Content Include="Resources\books\Red book.png" />
     <Content Include="Resources\books\red with sun.png" />
+    <Content Include="Resources\LibraryBackgroundFinalPOE.png" />
+    <None Include="Resources\LibraryBackgroundFinalPOE1.png" />
     <None Include="Resources\DeweyPicture.png" />
     <Content Include="Resources\icons8-heart-48 %281%29.png" />
     <Content Include="Resources\icons8-heart-48 %282%29.png" />
@@ -126,6 +144,9 @@
       <Project>{3c35ec86-2fd7-409d-a0dd-53f930f9970c}</Project>
       <Name>DeweyGenerator</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
